@@ -76,7 +76,7 @@ resource "abbey_identity" "user_1" {
     abbey = [
       {
         type  = "AuthId"
-        value = "replace-me@example.com"
+        value = "prb@paulbramsen.com"
       }
     ]
   })
